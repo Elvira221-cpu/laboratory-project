@@ -4,13 +4,13 @@
 
 ## Содержание
 
-| № | Название работы | Отчёт | Код | Дополнительные материалы |
+| № | Название работы | Отчёт | Код | 
 |---|---------------|-------|-----|-----------------------|
-| 1 | [Тема лабораторной 1](lab-1/) | [PDF](lab-1/report.pdf) / [MD](lab-1/README.md) | [Исходники](lab-1/src/) | [Схема](lab-1/diagram.png) |
-| 2 | [Тема лабораторной 2](lab-2/) | [PDF](lab-2/report.pdf) / [MD](lab-2/README.md) | [Исходники](lab-2/src/) | — |
-| 3 | [Тема лабораторной 3](lab-3/) | [PDF](lab-3/report.pdf) / [MD](lab-3/README.md) | [Исходники](lab-3/src/) | [Данные](lab-3/data.csv) |
+| 1 | [Тема лабораторной 1](lab-1/) | [PDF](lab-1/report.pdf) / [MD](lab-1/README.md) | [Исходники](lab-1/src/) | 
+| 2 | [Тема лабораторной 2](lab-2/) | [PDF](lab-2/report.pdf) / [MD](lab-2/README.md) | [Исходники](lab-2/src/) | 
+| 3 | [Тема лабораторной 3](lab-3/) | [PDF](lab-3/report.pdf) / [MD](lab-3/README.md) | [Исходники](lab-3/src/) | 
 | ... | ... | ... | ... | ... |
-| 8 | [Тема лабораторной 8](lab-8/) | [PDF](lab-8/report.pdf) / [MD](lab-8/README.md) | [Исходники](lab-8/src/) | [Презентация](lab-8/presentation.pdf) |
+| 8 | [Тема лабораторной 8](lab-8/) | [PDF](lab-8/report.pdf) / [MD](lab-8/README.md) | [Исходники](lab-8/src/) | 
 
 ## Как пользоваться
 
